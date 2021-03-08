@@ -1,40 +1,30 @@
 # Hi there 👋
 
-<div>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalee102310&count_bg=%23EB8A8A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
+<div style="text-align:center;">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalee102310&count_bg=%23EB8A8A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/>
+    </a>
 </div>
-<br>
 
-🌱 I’m currently learning (Back To Basic !! CHECK salee_Devlog)
+<br/>
+
+🔭 I’m currently working on - **AI word card for kids**
+
+🌱 I’m currently learning 
 
 - Python
-- HTML
-- CSS
+- JavaScript / TypeScript
+- HTML / CSS
 - Django
-- Database
-- JavaScript
-- Vue.js
+- Vue.js / React
 
----
+💻 Collaboration Tools - Git , Jira, Jenkins, Notion, Mattermost
 
-💻 Tech Stack
-
-- SCM (Source Code Management) : GitHub
-- CI (Continuous Integration) : Jenkins
-- Language : Python, JavaScript
-- Framework (Back) : Node.js / Django 
-- Framework (Front) : Vue.js
-- Cloud Service : 
-- DB : 
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salee1023)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salee1023&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <i class="fab fa-python"></i>
 
 <!--
-**salee102310/salee102310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**salee1023/salee1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
