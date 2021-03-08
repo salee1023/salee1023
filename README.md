@@ -27,6 +27,10 @@
 - Cloud Service : 
 - DB : 
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salee1023)](https://github.com/anuraghazra/github-readme-stats)
+
 <i class="fab fa-python"></i>
 
 <!--
