@@ -7,15 +7,20 @@
 
 <br/>
 
-🔭 I’m currently working on - **OJT**
+🔭 I’m currently working on - **OJT??**
 
 🌱 I’m currently learning 
 
+- JAVA 
+- JSP
+- OS, Middleware, Network, DB
+
+📚 What I Learned
+
 - Python
-- JavaScript / TypeScript
+- JavaScript
 - HTML / CSS
-- Django
-- Vue.js / React
+- Django & Vue.js
 
 💻 Collaboration Tools - Git , Jira, Notion, Mattermost
 
